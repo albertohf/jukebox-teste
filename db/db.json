@@ -1,0 +1,13 @@
+{
+  "CadCompleto": [
+    {
+      "nome": "Alberto ",
+      "sobrenome": "Henrique",
+      "email": "albertohf91@gmail.com",
+      "pessoaJuri": false,
+      "cpf": "123.321.231-32",
+      "cnpj": null,
+      "id": 1
+    }
+  ]
+}
