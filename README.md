@@ -14,13 +14,10 @@ npm run dev
 ```
 npm run build
 ```
-
-### Dados salvos Json-server 
-
+### Dados salvos Json-server
+```
 npm run backend
-
-
-
+```
 
 
 ### Customize configuration
